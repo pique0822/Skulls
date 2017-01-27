@@ -3,5 +3,5 @@ img {
   height: auto;
 }
 body {
-  background-image: image("images/colours-shiny.jpg");
+  background: "images/colours-shiny.jpg";
 }
