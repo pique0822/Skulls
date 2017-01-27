@@ -1,1 +1,7 @@
-
+img {
+  width: 25%;
+  height: auto;
+}
+body {
+  background-image: url("images/colours-shiny.jpg");
+}
