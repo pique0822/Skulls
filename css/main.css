@@ -1,4 +1,7 @@
 img {
   height: auto;
-  width: 300px;
+  width: 100%;
+}
+body {
+  background-color: : #101010;
 }
