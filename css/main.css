@@ -2,6 +2,10 @@ img {
   width: 25%;
   height: auto;
 }
-body {
+.page {
   background: "images/colours-shiny.jpg";
+}
+.header {
+  background-color: #FFFFFF;
+  opacity: .5;
 }
