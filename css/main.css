@@ -26,6 +26,8 @@
   left: 0;
 }
 .header {
-  background-color: rgba(255,0,0,.75);
+  background-color: green;
+  filter: alpha(opacity=60);
+  opacity: 0.6;
   width: 75%;
 }
