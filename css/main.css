@@ -27,11 +27,6 @@
 }
 .header {
   background-color: #FFFFFF;
-  opacity: .25;
-  width: 75%;
-}
-.skull {
-  background-color: #FFFFFF;
-  opacity: .25;
-  width: 75%;
+  opacity: .5;
+  width: 75%
 }
