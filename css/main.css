@@ -4,9 +4,11 @@ img {
 }
 .background {
   z-index: 1;
+  position: absolute;
 }
 .page {
   z-index: 2;
+  position: absolute;
 }
 .header {
   background-color: #FFFFFF;
