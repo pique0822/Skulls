@@ -2,8 +2,11 @@ img {
   width: 25%;
   height: auto;
 }
+.background {
+  z-index: 1;
+}
 .page {
-  background: "images/colours-shiny.jpg";
+  z-index: 2;
 }
 .header {
   background-color: #FFFFFF;
