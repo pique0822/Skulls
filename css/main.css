@@ -1,6 +1,6 @@
 .skull{
   left: 12%;
-  width: 75%;
+  width: 100%;
   text-align: center;
 }
 
@@ -11,6 +11,10 @@
 
 .header {
   left: 12%;
-  width: 75%;
+  width: 100%;
   text-align: center;
+}
+
+body {
+  background-color: blue;
 }
