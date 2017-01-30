@@ -2,6 +2,9 @@
   left: 12%;
   width: 100%;
   text-align: center;
+
+  background-color: white;
+  opacity: .75;
 }
 
 .skull img {
@@ -14,7 +17,7 @@
   width: 100%;
   text-align: center;
   background-color: white;
-  opacity: .25;
+  opacity: .75;
 }
 
 body {
