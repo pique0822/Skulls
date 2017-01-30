@@ -1,4 +1,5 @@
 .skull{
+  left: 12%;
   width: 75%;
   text-align: center;
 }
@@ -6,5 +7,10 @@
 .skull img {
   width: 25%;
   height: auto;
-  
+}
+
+.header {
+  left: 12%;
+  width: 75%;
+  text-align: center;
 }
