@@ -1,4 +1,8 @@
 #skull_img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
   width: 25%;
   height: auto;
 }
@@ -31,5 +35,5 @@
   width: 75%;
 }
 .skull {
-  text-align: center;
+  position: relative;
 }
