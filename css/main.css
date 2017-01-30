@@ -5,10 +5,11 @@
   text-align: center;
   background-color: white;
   opacity: .75;
+  border-radius: 5px;
 }
 
 .skull img {
-  width: 25%;
+  width: 19%;
   height: auto;
 }
 
@@ -19,6 +20,7 @@
   text-align: center;
   background-color: white;
   opacity: .75;
+  border-radius: 5px;
 }
 
 body {
