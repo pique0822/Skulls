@@ -1,7 +1,7 @@
 .skull{
-  margin-left: 12%;
-  margin-right: 12%;
-  width: 75%;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
   text-align: center;
   background-color: white;
   opacity: .75;
@@ -9,14 +9,14 @@
 }
 
 .skull img {
-  width: 19%;
+  width: 35%;
   height: auto;
 }
 
 .header {
-  margin-left: 12%;
-  margin-right: 12%;
-  width: 75%;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
   text-align: center;
   background-color: white;
   opacity: .75;
