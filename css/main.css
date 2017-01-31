@@ -14,8 +14,16 @@
   border-radius: 5px;
 }
 
+.buttonsTable {
+  display: table;
+}
+
+.buttonsRow{
+  display: table-row;
+}
+
 #button {
-  float: left;
+  display: table-cell;
   margin-left: 5%;
   margin-right: 5%;
   width: 33%;
@@ -29,7 +37,7 @@
   opacity: .9
 }
 
-.premadeSkulls img {
+#button img {
   width: 100%;
   height: auto;
 }
