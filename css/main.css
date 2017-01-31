@@ -26,7 +26,8 @@
   display: table-cell;
   margin-left: 5%;
   margin-right: 5%;
-  width: 33%;
+  height: 100px;
+  width: auto;
   text-align: center;
   background-color: white;
   opacity: .5;
