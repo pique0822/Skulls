@@ -24,6 +24,10 @@
   border-radius: 5px;
 }
 
+#button:hover {
+  opacity: .9
+}
+
 .premadeSkulls img {
   width: 100%;
   height: auto;
