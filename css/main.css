@@ -38,6 +38,11 @@
   opacity: .9
 }
 
+#button img {
+  width: auto;
+  height: 100px;
+}
+
 body {
   background-image: url(../images/calaveritas.jpg);
 }
