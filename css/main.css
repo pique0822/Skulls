@@ -20,13 +20,13 @@
 
 .buttonsRow{
   display: table-row;
+  margin-left: 5%;
 }
 
 #button {
   display: table-cell;
   margin-left: 5%;
   margin-right: 5%;
-  height: 100px;
   width: auto;
   text-align: center;
   background-color: white;
@@ -40,7 +40,9 @@
 
 #button img {
   width: auto;
-  height: 100px;
+  height: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 body {
