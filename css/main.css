@@ -1,10 +1,10 @@
 
-#skull img {
+.skull img {
   width: 27%;
   height: auto;
 }
 
-.gui {
+#gui {
   margin-left: 5%;
   margin-right: 5%;
   width: 90%;
@@ -14,7 +14,7 @@
   border-radius: 5px;
 }
 
-#sItem {
+.sItem {
   width: 33%;
   height: auto;
 }
