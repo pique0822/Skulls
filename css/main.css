@@ -17,7 +17,7 @@
 #button {
   margin-left: 5%;
   margin-right: 5%;
-  width: 90%;
+  width: 33%;
   text-align: center;
   background-color: white;
   opacity: .5;
@@ -25,7 +25,7 @@
 }
 
 .premadeSkulls img {
-  width: 33%;
+  width: 100%;
   height: auto;
 }
 
