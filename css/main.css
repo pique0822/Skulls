@@ -1,7 +1,8 @@
 
-.skull img {
+.skull canvas {
   width: 27%;
   height: auto;
+  background-image: url(../images/skull_picture.png)
 }
 
 #gui {
