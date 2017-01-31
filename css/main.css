@@ -1,4 +1,4 @@
-.draw_skull{
+.skull{
   margin-left: 5%;
   margin-right: 5%;
   width: 90%;
@@ -8,7 +8,7 @@
   border-radius: 5px;
 }
 
-.draw_skull img {
+.skull img {
   width: 27%;
   height: auto;
 }
